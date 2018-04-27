@@ -1,0 +1,980 @@
+name,driverId_Ref
+Australian,button
+Malaysian,button
+Chinese,vettel
+Bahrain,button
+Spanish,button
+Monaco,button
+Turkish,button
+British,vettel
+German,webber
+Hungarian,hamilton
+European,barrichello
+Belgian,raikkonen
+Italian,barrichello
+Singapore,hamilton
+Japanese,vettel
+Brazilian,webber
+Abu Dhabi,vettel
+Australian,hamilton
+Malaysian,raikkonen
+Bahrain,massa
+Spanish,raikkonen
+Turkish,massa
+Monaco,hamilton
+Canadian,kubica
+French,massa
+British,hamilton
+German,hamilton
+Hungarian,kovalainen
+European,massa
+Belgian,massa
+Italian,vettel
+Singapore,alonso
+Japanese,alonso
+Chinese,hamilton
+Brazilian,massa
+Australian,raikkonen
+Malaysian,alonso
+Bahrain,massa
+Spanish,massa
+Monaco,alonso
+Canadian,hamilton
+United States,hamilton
+French,raikkonen
+British,raikkonen
+European,alonso
+Hungarian,hamilton
+Turkish,massa
+Italian,alonso
+Belgian,raikkonen
+Japanese,hamilton
+Chinese,raikkonen
+Brazilian,raikkonen
+Bahrain,alonso
+Malaysian,fisichella
+Australian,alonso
+San Marino,michael_schumacher
+European,michael_schumacher
+Spanish,alonso
+Monaco,alonso
+British,alonso
+Canadian,alonso
+United States,michael_schumacher
+French,michael_schumacher
+German,michael_schumacher
+Hungarian,button
+Turkish,massa
+Italian,michael_schumacher
+Chinese,michael_schumacher
+Japanese,alonso
+Brazilian,massa
+Australian,fisichella
+Malaysian,alonso
+Bahrain,alonso
+San Marino,alonso
+Spanish,raikkonen
+Monaco,raikkonen
+European,alonso
+Canadian,raikkonen
+United States,michael_schumacher
+French,alonso
+British,montoya
+German,alonso
+Hungarian,raikkonen
+Turkish,raikkonen
+Italian,montoya
+Belgian,raikkonen
+Brazilian,montoya
+Japanese,raikkonen
+Chinese,alonso
+Australian,michael_schumacher
+Malaysian,michael_schumacher
+Bahrain,michael_schumacher
+San Marino,michael_schumacher
+Spanish,michael_schumacher
+Monaco,trulli
+European,michael_schumacher
+Canadian,michael_schumacher
+United States,michael_schumacher
+French,michael_schumacher
+British,michael_schumacher
+German,michael_schumacher
+Hungarian,michael_schumacher
+Belgian,raikkonen
+Italian,barrichello
+Chinese,barrichello
+Japanese,michael_schumacher
+Brazilian,montoya
+Australian,coulthard
+Malaysian,raikkonen
+Brazilian,fisichella
+San Marino,michael_schumacher
+Spanish,michael_schumacher
+Austrian,michael_schumacher
+Monaco,montoya
+Canadian,michael_schumacher
+European,ralf_schumacher
+French,ralf_schumacher
+British,barrichello
+German,montoya
+Hungarian,alonso
+Italian,michael_schumacher
+United States,michael_schumacher
+Japanese,barrichello
+Australian,michael_schumacher
+Malaysian,ralf_schumacher
+Brazilian,michael_schumacher
+San Marino,michael_schumacher
+Spanish,michael_schumacher
+Austrian,michael_schumacher
+Monaco,coulthard
+Canadian,michael_schumacher
+European,barrichello
+British,michael_schumacher
+French,michael_schumacher
+German,michael_schumacher
+Hungarian,barrichello
+Belgian,michael_schumacher
+Italian,barrichello
+United States,barrichello
+Japanese,michael_schumacher
+Australian,michael_schumacher
+Malaysian,michael_schumacher
+Brazilian,coulthard
+San Marino,ralf_schumacher
+Spanish,michael_schumacher
+Austrian,coulthard
+Monaco,michael_schumacher
+Canadian,ralf_schumacher
+European,michael_schumacher
+French,michael_schumacher
+British,hakkinen
+German,ralf_schumacher
+Hungarian,michael_schumacher
+Belgian,michael_schumacher
+Italian,montoya
+United States,hakkinen
+Japanese,michael_schumacher
+Australian,michael_schumacher
+Brazilian,michael_schumacher
+San Marino,michael_schumacher
+British,coulthard
+Spanish,hakkinen
+European,michael_schumacher
+Monaco,coulthard
+Canadian,michael_schumacher
+French,coulthard
+Austrian,hakkinen
+German,barrichello
+Hungarian,hakkinen
+Belgian,hakkinen
+Italian,michael_schumacher
+United States,michael_schumacher
+Japanese,michael_schumacher
+Malaysian,michael_schumacher
+Australian,irvine
+Brazilian,hakkinen
+San Marino,michael_schumacher
+Monaco,michael_schumacher
+Spanish,hakkinen
+Canadian,hakkinen
+French,frentzen
+British,coulthard
+Austrian,irvine
+German,irvine
+Hungarian,hakkinen
+Belgian,coulthard
+Italian,frentzen
+European,herbert
+Malaysian,irvine
+Japanese,hakkinen
+Australian,hakkinen
+Brazilian,hakkinen
+Argentine,michael_schumacher
+San Marino,coulthard
+Spanish,hakkinen
+Monaco,hakkinen
+Canadian,michael_schumacher
+French,michael_schumacher
+British,michael_schumacher
+Austrian,hakkinen
+German,hakkinen
+Hungarian,michael_schumacher
+Belgian,damon_hill
+Italian,michael_schumacher
+Luxembourg,hakkinen
+Japanese,hakkinen
+Australian,coulthard
+Brazilian,villeneuve
+Argentine,villeneuve
+San Marino,frentzen
+Monaco,michael_schumacher
+Spanish,villeneuve
+Canadian,michael_schumacher
+French,michael_schumacher
+British,villeneuve
+German,berger
+Hungarian,villeneuve
+Belgian,michael_schumacher
+Italian,coulthard
+Austrian,villeneuve
+Luxembourg,villeneuve
+Japanese,michael_schumacher
+European,hakkinen
+Australian,damon_hill
+Brazilian,damon_hill
+Argentine,damon_hill
+European,villeneuve
+San Marino,damon_hill
+Monaco,panis
+Spanish,michael_schumacher
+Canadian,damon_hill
+French,damon_hill
+British,villeneuve
+German,damon_hill
+Hungarian,villeneuve
+Belgian,michael_schumacher
+Italian,michael_schumacher
+Portuguese,villeneuve
+Japanese,damon_hill
+Brazilian,michael_schumacher
+Argentine,damon_hill
+San Marino,damon_hill
+Spanish,michael_schumacher
+Monaco,michael_schumacher
+Canadian,alesi
+French,michael_schumacher
+British,herbert
+German,michael_schumacher
+Hungarian,damon_hill
+Belgian,michael_schumacher
+Italian,herbert
+Portuguese,coulthard
+European,michael_schumacher
+Pacific,michael_schumacher
+Japanese,michael_schumacher
+Australian,damon_hill
+Brazilian,michael_schumacher
+Pacific,michael_schumacher
+San Marino,michael_schumacher
+Monaco,michael_schumacher
+Spanish,damon_hill
+Canadian,michael_schumacher
+French,michael_schumacher
+British,damon_hill
+German,berger
+Hungarian,michael_schumacher
+Belgian,damon_hill
+Italian,damon_hill
+Portuguese,damon_hill
+European,michael_schumacher
+Japanese,damon_hill
+Australian,mansell
+South African,prost
+Brazilian,senna
+European,senna
+San Marino,prost
+Spanish,prost
+Monaco,senna
+Canadian,prost
+French,prost
+British,prost
+German,prost
+Hungarian,damon_hill
+Belgian,damon_hill
+Italian,damon_hill
+Portuguese,michael_schumacher
+Japanese,senna
+Australian,senna
+South African,mansell
+Mexican,mansell
+Brazilian,mansell
+Spanish,mansell
+San Marino,mansell
+Monaco,senna
+Canadian,berger
+French,mansell
+British,mansell
+German,mansell
+Hungarian,senna
+Belgian,michael_schumacher
+Italian,senna
+Portuguese,mansell
+Japanese,patrese
+Australian,berger
+United States,senna
+Brazilian,senna
+San Marino,senna
+Monaco,senna
+Canadian,piquet
+Mexican,patrese
+French,mansell
+British,mansell
+German,mansell
+Hungarian,senna
+Belgian,senna
+Italian,mansell
+Portuguese,patrese
+Spanish,mansell
+Japanese,berger
+Australian,senna
+United States,senna
+Brazilian,prost
+San Marino,patrese
+Monaco,senna
+Canadian,senna
+Mexican,prost
+French,prost
+British,prost
+German,senna
+Hungarian,boutsen
+Belgian,senna
+Italian,senna
+Portuguese,mansell
+Spanish,prost
+Japanese,piquet
+Australian,piquet
+Bahrain,alonso
+Australian,button
+Malaysian,vettel
+Chinese,button
+Spanish,webber
+Monaco,webber
+Turkish,hamilton
+Canadian,hamilton
+European,vettel
+British,webber
+German,alonso
+Hungarian,webber
+Belgian,hamilton
+Italian,alonso
+Singapore,alonso
+Japanese,vettel
+Korean,alonso
+Brazilian,vettel
+Abu Dhabi,vettel
+Brazilian,mansell
+San Marino,senna
+Monaco,senna
+Mexican,senna
+United States,prost
+Canadian,boutsen
+French,prost
+British,prost
+German,senna
+Hungarian,mansell
+Belgian,senna
+Italian,prost
+Portuguese,berger
+Spanish,senna
+Japanese,nannini
+Australian,boutsen
+Brazilian,prost
+San Marino,senna
+Monaco,prost
+Mexican,prost
+Canadian,senna
+Detroit,senna
+French,prost
+British,senna
+German,senna
+Hungarian,senna
+Belgian,senna
+Italian,berger
+Portuguese,prost
+Spanish,prost
+Japanese,senna
+Australian,prost
+Brazilian,prost
+San Marino,mansell
+Belgian,prost
+Monaco,senna
+Detroit,senna
+French,mansell
+British,mansell
+German,piquet
+Hungarian,piquet
+Austrian,mansell
+Italian,piquet
+Portuguese,prost
+Spanish,mansell
+Mexican,mansell
+Japanese,berger
+Australian,berger
+Brazilian,piquet
+Spanish,senna
+San Marino,prost
+Monaco,prost
+Belgian,mansell
+Canadian,mansell
+Detroit,senna
+French,mansell
+British,mansell
+German,piquet
+Hungarian,piquet
+Austrian,prost
+Italian,piquet
+Portuguese,mansell
+Mexican,berger
+Australian,prost
+Brazilian,prost
+Portuguese,senna
+San Marino,angelis
+Monaco,prost
+Canadian,alboreto
+Detroit,keke_rosberg
+French,piquet
+British,prost
+German,alboreto
+Austrian,prost
+Dutch,lauda
+Italian,prost
+Belgian,senna
+European,mansell
+South African,mansell
+Australian,keke_rosberg
+Brazilian,prost
+South African,lauda
+Belgian,alboreto
+San Marino,prost
+French,lauda
+Monaco,prost
+Canadian,piquet
+Detroit,piquet
+Dallas,keke_rosberg
+British,lauda
+German,prost
+Austrian,lauda
+Dutch,prost
+Italian,lauda
+European,prost
+Portuguese,prost
+Brazilian,piquet
+United States,watson
+French,prost
+San Marino,tambay
+Monaco,keke_rosberg
+Belgian,prost
+Detroit,alboreto
+Canadian,arnoux
+British,prost
+German,arnoux
+Austrian,prost
+Dutch,arnoux
+Italian,piquet
+European,piquet
+South African,patrese
+South African,prost
+Brazilian,prost
+United States,lauda
+San Marino,pironi
+Belgian,watson
+Monaco,patrese
+Detroit,watson
+Canadian,piquet
+Dutch,pironi
+British,lauda
+French,arnoux
+German,tambay
+Austrian,angelis
+Swiss,keke_rosberg
+Italian,arnoux
+Caesars Palace,alboreto
+United States,jones
+Brazilian,reutemann
+Argentine,piquet
+San Marino,piquet
+Belgian,reutemann
+Monaco,gilles_villeneuve
+Spanish,gilles_villeneuve
+French,prost
+British,watson
+German,piquet
+Austrian,laffite
+Dutch,prost
+Italian,prost
+Canadian,laffite
+Caesars Palace,jones
+Argentine,jones
+Brazilian,arnoux
+South African,arnoux
+United States,piquet
+Belgian,pironi
+Monaco,reutemann
+French,jones
+British,jones
+German,laffite
+Austrian,jabouille
+Dutch,piquet
+Italian,piquet
+Canadian,jones
+United States,jones
+Argentine,laffite
+Brazilian,laffite
+South African,gilles_villeneuve
+United States,gilles_villeneuve
+Spanish,depailler
+Belgian,scheckter
+Monaco,scheckter
+French,jabouille
+British,regazzoni
+German,jones
+Austrian,jones
+Dutch,jones
+Italian,scheckter
+Canadian,jones
+United States,gilles_villeneuve
+Argentine,mario_andretti
+Brazilian,reutemann
+South African,peterson
+United States,reutemann
+Monaco,depailler
+Belgian,mario_andretti
+Spanish,mario_andretti
+Swedish,lauda
+French,mario_andretti
+British,reutemann
+German,mario_andretti
+Austrian,peterson
+Dutch,mario_andretti
+Italian,lauda
+United States,reutemann
+Canadian,gilles_villeneuve
+Argentine,scheckter
+Brazilian,reutemann
+South African,lauda
+United States,mario_andretti
+Spanish,mario_andretti
+Monaco,scheckter
+Belgian,nilsson
+Swedish,laffite
+French,mario_andretti
+British,hunt
+German,lauda
+Austrian,jones
+Dutch,lauda
+Italian,mario_andretti
+United States,hunt
+Canadian,scheckter
+Japanese,hunt
+Brazilian,lauda
+South African,lauda
+United States,regazzoni
+Spanish,hunt
+Belgian,lauda
+Monaco,lauda
+Swedish,scheckter
+French,hunt
+British,lauda
+German,hunt
+Austrian,watson
+Dutch,hunt
+Italian,peterson
+Canadian,hunt
+United States,hunt
+Japanese,mario_andretti
+Argentine,emerson_fittipaldi
+Brazilian,pace
+South African,scheckter
+Spanish,mass
+Monaco,lauda
+Belgian,lauda
+Swedish,lauda
+Dutch,hunt
+French,lauda
+British,emerson_fittipaldi
+German,reutemann
+Austrian,brambilla
+Italian,regazzoni
+United States,lauda
+Argentine,hulme
+Brazilian,emerson_fittipaldi
+South African,reutemann
+Spanish,lauda
+Belgian,emerson_fittipaldi
+Monaco,peterson
+Swedish,scheckter
+Dutch,lauda
+French,peterson
+British,scheckter
+German,regazzoni
+Austrian,reutemann
+Italian,peterson
+Canadian,emerson_fittipaldi
+United States,reutemann
+Argentine,emerson_fittipaldi
+Brazilian,emerson_fittipaldi
+South African,stewart
+Spanish,emerson_fittipaldi
+Belgian,stewart
+Monaco,stewart
+Swedish,hulme
+French,peterson
+British,revson
+Dutch,stewart
+German,stewart
+Austrian,peterson
+Italian,peterson
+Canadian,revson
+United States,peterson
+Argentine,stewart
+South African,hulme
+Spanish,emerson_fittipaldi
+Monaco,beltoise
+Belgian,emerson_fittipaldi
+French,stewart
+British,emerson_fittipaldi
+German,ickx
+Austrian,emerson_fittipaldi
+Italian,emerson_fittipaldi
+Canadian,stewart
+United States,stewart
+South African,mario_andretti
+Spanish,stewart
+Monaco,stewart
+Dutch,ickx
+French,stewart
+British,stewart
+German,stewart
+Austrian,siffert
+Italian,gethin
+Canadian,stewart
+United States,cevert
+South African,jack_brabham
+Spanish,stewart
+Monaco,rindt
+Belgian,rodriguez
+Dutch,rindt
+French,rindt
+British,rindt
+German,rindt
+Austrian,ickx
+Italian,regazzoni
+Canadian,ickx
+United States,emerson_fittipaldi
+Mexican,ickx
+South African,stewart
+Spanish,stewart
+Monaco,hill
+Dutch,stewart
+French,stewart
+British,stewart
+German,ickx
+Italian,stewart
+Canadian,ickx
+United States,rindt
+Mexican,hulme
+South African,clark
+Spanish,hill
+Monaco,hill
+Belgian,mclaren
+Dutch,stewart
+French,ickx
+British,siffert
+German,stewart
+Italian,hulme
+Canadian,hulme
+United States,stewart
+Mexican,hill
+South African,rodriguez
+Monaco,hulme
+Dutch,clark
+Belgian,gurney
+French,jack_brabham
+British,clark
+German,hulme
+Canadian,jack_brabham
+Italian,surtees
+United States,clark
+Mexican,clark
+Monaco,stewart
+Belgian,surtees
+French,jack_brabham
+British,jack_brabham
+Dutch,jack_brabham
+German,jack_brabham
+Italian,scarfiotti
+United States,clark
+Mexican,surtees
+South African,clark
+Monaco,hill
+Belgian,clark
+French,clark
+British,clark
+Dutch,clark
+German,clark
+Italian,stewart
+United States,hill
+Mexican,ginther
+Monaco,hill
+Dutch,clark
+Belgian,clark
+French,gurney
+British,clark
+German,surtees
+Austrian,bandini
+Italian,surtees
+United States,hill
+Mexican,gurney
+Monaco,hill
+Belgian,clark
+Dutch,clark
+French,clark
+British,clark
+German,surtees
+Italian,clark
+United States,hill
+Mexican,clark
+South African,clark
+Dutch,hill
+Monaco,mclaren
+Belgian,clark
+French,gurney
+British,clark
+German,hill
+Italian,hill
+United States,clark
+South African,hill
+Monaco,moss
+Dutch,trips
+Belgian,phil_hill
+French,baghetti
+British,trips
+German,moss
+Italian,phil_hill
+United States,ireland
+Argentine,mclaren
+Monaco,moss
+Indianapolis 500,rathmann
+Dutch,jack_brabham
+Belgian,jack_brabham
+French,jack_brabham
+British,jack_brabham
+Portuguese,jack_brabham
+Italian,phil_hill
+United States,moss
+Monaco,jack_brabham
+Indianapolis 500,ward
+Dutch,bonnier
+French,brooks
+British,jack_brabham
+German,brooks
+Portuguese,moss
+Italian,moss
+United States,mclaren
+Argentine,moss
+Monaco,trintignant
+Dutch,moss
+Indianapolis 500,bryan
+Belgian,brooks
+French,hawthorn
+British,collins
+German,brooks
+Portuguese,moss
+Italian,brooks
+Moroccan,moss
+Argentine,fangio
+Monaco,fangio
+Indianapolis 500,hanks
+French,fangio
+British,brooks
+British,moss
+German,fangio
+Pescara,moss
+Italian,moss
+Argentine,musso
+Argentine,fangio
+Monaco,moss
+Indianapolis 500,flaherty
+Belgian,collins
+French,collins
+British,fangio
+German,fangio
+Italian,moss
+Argentine,fangio
+Monaco,trintignant
+Indianapolis 500,sweikert
+Belgian,fangio
+Dutch,fangio
+British,moss
+Italian,fangio
+Argentine,fangio
+Indianapolis 500,vukovich
+Belgian,fangio
+French,fangio
+British,gonzalez
+German,fangio
+Swiss,fangio
+Italian,fangio
+Spanish,hawthorn
+Argentine,ascari
+Indianapolis 500,vukovich
+Dutch,ascari
+Belgian,ascari
+French,hawthorn
+British,ascari
+German,farina
+Swiss,ascari
+Italian,fangio
+Swiss,taruffi
+Indianapolis 500,ruttman
+Belgian,ascari
+French,ascari
+British,ascari
+German,ascari
+Dutch,ascari
+Italian,ascari
+Swiss,fangio
+Indianapolis 500,wallard
+Belgian,farina
+French,fagioli
+French,fangio
+British,gonzalez
+German,ascari
+Italian,ascari
+Spanish,fangio
+British,farina
+Monaco,fangio
+Indianapolis 500,parsons
+Swiss,farina
+Belgian,fangio
+French,fangio
+Italian,farina
+Australian,vettel
+Malaysian,vettel
+Chinese,hamilton
+Turkish,vettel
+Spanish,vettel
+Monaco,vettel
+Canadian,button
+European,vettel
+British,alonso
+German,hamilton
+Hungarian,button
+Belgian,vettel
+Italian,vettel
+Singapore,vettel
+Japanese,button
+Korean,vettel
+Indian,vettel
+Abu Dhabi,hamilton
+Brazilian,webber
+Australian,button
+Malaysian,alonso
+Chinese,rosberg
+Bahrain,vettel
+Spanish,maldonado
+Monaco,webber
+Canadian,hamilton
+European,alonso
+British,webber
+German,alonso
+Hungarian,hamilton
+Belgian,button
+Italian,hamilton
+Singapore,vettel
+Japanese,vettel
+Korean,vettel
+Indian,vettel
+Abu Dhabi,raikkonen
+United States,hamilton
+Brazilian,button
+Australian,raikkonen
+Malaysian,vettel
+Chinese,alonso
+Bahrain,vettel
+Spanish,alonso
+Monaco,rosberg
+Canadian,vettel
+British,rosberg
+German,vettel
+Hungarian,hamilton
+Belgian,vettel
+Italian,vettel
+Singapore,vettel
+Korean,vettel
+Japanese,vettel
+Indian,vettel
+Abu Dhabi,vettel
+United States,vettel
+Brazilian,vettel
+Australian,rosberg
+Malaysian,hamilton
+Bahrain,hamilton
+Chinese,hamilton
+Spanish,hamilton
+Monaco,rosberg
+Canadian,ricciardo
+Austrian,rosberg
+British,hamilton
+German,rosberg
+Hungarian,ricciardo
+Belgian,ricciardo
+Italian,hamilton
+Singapore,hamilton
+Japanese,hamilton
+Russian,hamilton
+United States,hamilton
+Brazilian,rosberg
+Abu Dhabi,hamilton
+Australian,hamilton
+Malaysian,vettel
+Chinese,hamilton
+Bahrain,hamilton
+Spanish,rosberg
+Monaco,rosberg
+Canadian,hamilton
+Austrian,rosberg
+British,hamilton
+Hungarian,vettel
+Belgian,hamilton
+Italian,hamilton
+Singapore,vettel
+Japanese,hamilton
+Russian,hamilton
+United States,hamilton
+Mexican,rosberg
+Brazilian,rosberg
+Abu Dhabi,rosberg
+Australian,rosberg
+Bahrain,rosberg
+Chinese,rosberg
+Russian,rosberg
+Spanish,max_verstappen
+Monaco,hamilton
+Canadian,hamilton
+European,rosberg
+Austrian,hamilton
+British,hamilton
+Hungarian,hamilton
+German,hamilton
+Belgian,rosberg
+Italian,rosberg
+Singapore,rosberg
+Malaysian,ricciardo
+Japanese,rosberg
+United States,hamilton
+Mexican,hamilton
+Brazilian,hamilton
+Abu Dhabi,hamilton
+Australian,vettel
+Chinese,hamilton
+Bahrain,vettel
+Russian,bottas
+Spanish,hamilton
+Monaco,vettel
+Canadian,hamilton
+Azerbaijan,ricciardo
+Austrian,bottas
+British,hamilton
+Hungarian,vettel
+Belgian,hamilton
+Italian,hamilton
+Singapore,hamilton
+Malaysian,max_verstappen
+Japanese,hamilton
+United States,hamilton
+Mexican,max_verstappen
+Brazilian,vettel
+Abu Dhabi,bottas
