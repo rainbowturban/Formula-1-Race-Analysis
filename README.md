@@ -1,3 +1,3 @@
 DS3001
 ======
-Foundation of Data Science project code
+Foundations of Data Science project code
